@@ -8,7 +8,7 @@ body {
 
 a {
   font-weight: bold;
-  color: #0084c8;
+  color: #589632;
 }
 a:hover {
   color: #000;
@@ -29,7 +29,7 @@ hr {
   height: 67px;
   background-color: #fff;
   opacity: 0.85;
-  border-bottom: 1px solid #0084c8;
+  border-bottom: 1px solid #589632;
 }
 
 .navbar-brand {
@@ -90,13 +90,12 @@ select#other_groups {
 }
 
 .page-title {
-  color: #0084c8;
+  color: #589632;
   font-family: 'Lato', Helvetica, Arial, sans-serif;
   font-weight: 900;
   font-size: 4.4em;
   letter-spacing: 1px;
   padding-left: 25px;
-  text-shadow: 1px 1px 2px rgba(150, 150, 150, 0.82);
   line-height: 1.5em;
 }
 
@@ -152,7 +151,7 @@ ul.page-nav li {
 footer {
   background: #fff;
   opacity: 0.7;
-  border-top: 1px solid #0084c8;
+  border-top: 1px solid #589632;
   color: #000;
   margin-bottom: 0;
   text-align: center;
@@ -228,7 +227,7 @@ footer {
     background-color: transparent;
   }
   .navbar-header > button.navbar-toggle {
-    background-color: #0084c8;
+    background-color: #589632;
     border: #aa84c8 1px solid;
     opacity: 1.0;
   }
