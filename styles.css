@@ -2,6 +2,8 @@ body {
   background: #fff url('full-uk-coast-grad.png') no-repeat 100% 0;
   background-attachment:fixed;
   font-size: 14px;
+  margin:0;
+  padding:0;
 }
 
 a {
@@ -14,7 +16,7 @@ a:hover {
 }
 
 .container {
-  margin-left: 10px;
+  
 }
 
 hr {
@@ -31,8 +33,9 @@ hr {
 }
 
 .navbar-brand {
-  background: #fff url('images/qgis_logo.png') no-repeat 20px 2px;
-  height: 67px;
+  background: #fff url('images/qgis-logo.png') no-repeat 2px 8px;
+  background-size: 100px 48px;
+  height: 64px;
   width: 100px;
 }
 
