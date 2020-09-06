@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Daftar Pemateri KuQis</title>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+
+<body>
+<h2>Daftar Pemateri KuQis</h2>
+
+<table>
+  <tr>
+    <th>Nama Pemateri</th>
+    <th>Materi</th>
+    <th>KuQis Link</th>
+    <th>Tanggal</th>
+  </tr>
+  <tr>
+    <td>Muhammad Anshori</td>
+    <td>Membuat WebGIS Menggunakan QGIS2Web</td>
+    <td>Kuqis #1 - <a href="https://youtu.be/kSXymzlP-1w">Video Link</a></td>
+    <td>Minggu 10 Mei 2020</td>
+  </tr>
+  <tr>
+    <td>Gunawan Wisnu Wardhana</td>
+    <td>Automated Map Production Using QGIS/PyQGIS</td>
+    <td>Kuqis #2 - <a href="https://youtu.be/-NWeyNFFgwM">Video Link</a></td>
+    <td>Minggu 14 Juni 2020</td>
+  </tr>
+  <tr>
+    <td>Danang Wijaya</td>
+    <td>Visualisasi Grafik Pada QGIS Dengan Data Plotly dan Google Spreadsheet</td>
+    <td>Kuqis #2 - <a href="https://youtu.be/-NWeyNFFgwM">Video Link</a></td>
+    <td>Minggu 14 Juni 2020</td>
+  </tr>
+  <tr>
+    <td>Suherman</td>
+    <td>Tentang Geopackage</td>
+    <td>Kuqis #3 - <a href="https://youtu.be/Y7wODUMAnkQ">Video Link</a></td>
+    <td>Sabtu 29 Agustus 2020</td>
+  </tr>
+</table>
+</body>
+
+</html>
