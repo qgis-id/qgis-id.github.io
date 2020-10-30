@@ -1,0 +1,11 @@
+seluruh field yang Blank/Null diisi strip (-)
+
+Field Jika anda memilih background pendidikan "other", Di Delete
+
+Kota domisili di normalisasi ke bentuk provinsi
+Kota domisili jika tidak diketahu tempatnya otomatis DKI jakarta
+
+hapus data duplikat pada bagian nama
+
+Normalisasi data pada field Pekerjaan
+
